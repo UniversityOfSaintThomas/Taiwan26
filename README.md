@@ -8,6 +8,7 @@ Two pages and one folder:
 
 Keep the three together.
 
+
 ## 1. Put it on GitHub Pages (about 5 minutes)
 
 1. On github.com, create a new **public** repository, for example `ai-divide`.
